@@ -3,3 +3,6 @@ train.csv
 .ipynb_checkpoint
 .ipynb_checkpoints
 **/.DS_Store
+**/train.csv
+**/test.csv
+**/data_set.csv
