@@ -6,3 +6,4 @@ train.csv
 **/train.csv
 **/test.csv
 **/data_set.csv
+*.csv
