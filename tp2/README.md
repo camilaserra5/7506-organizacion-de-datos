@@ -13,15 +13,24 @@ xgboost
 xgboost con cv
 knn variando n
 
+catboost
+naive bayes
+random forest
+
 Posibles a hacer:
 knn variando m
 knn variando n y m
 adaboost
-catboost
 light gbm
-naive bayes
 logistic regression
-random forest
 ensambles d algunos
 feature selection (forward o backward)
 xgboost con mas variaciones
+
+
+Respecto de las features:
+-
+
+Normalizar los datos para modelos que funcionen mejor con valores entre 0 y 1 (Cuando pueda lo implemento)
+Generar variaciones sobre las features más importantes (Cuando pueda lo implemento)
+Tratamiento de Outliers (Cuando pueda lo implemento)
