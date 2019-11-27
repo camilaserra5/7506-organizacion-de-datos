@@ -8,20 +8,12 @@ Importante: este df a exportar tiene que tener la columna id, y no tiene que ten
 Para general el modelo final con todos estos features, ir a feature-main y agregar para que la notebook se corra, se lea el csv generado y se concatene con los demás. Nota: el df de todos los features debe tener 300000 filas (shape = 300000 x lo que sea)
 
 En la carpeta modelos, estarán los distintos algoritmos utilizados. En general, para no perder los modelos, lo ideal es crear notebooks nuevas hasta estar seguros d que funciona. Por ej: ya hay un xgboost pero yo lo quiero mejorar, copió la notebook, la renombro, y hago mis modificaciones / agregaciones sobre esa. 
-Los algoritmos que hay por ahora son:
-xgboost
-xgboost con cv
-knn variando n
 
 Posibles a hacer:
-knn variando m
-knn variando n y m
 adaboost
-catboost
 light gbm
 naive bayes
 logistic regression
-random forest
 ensambles d algunos
 feature selection (forward o backward)
 xgboost con mas variaciones
