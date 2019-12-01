@@ -1,0 +1,103 @@
+feature,importance
+Distrito Federal,0.119347766
+metroscubiertos_fillmean_cuadrado,0.1006674
+metroscubiertos_fillmean,0.06723911
+Casa,0.053369436
+banos,0.050489172
+Apartamento,0.045096442
+Casa en condominio,0.031991154
+Edo. de México,0.029807609
+Yucatán,0.022529388
+San luis Potosí,0.020565536
+desc_gym,0.01915961
+metroscubiertos,0.018236782
+Durango,0.017126208
+Jalisco,0.015620244
+Coahuila,0.014737036
+metrostotales_fillmean_cuadrado,0.011715824
+gimnasio,0.010907082
+garages,0.010628694
+Rancho,0.008861043
+desc_pago,0.008816733
+titulo_tipo_dpto,0.008631474
+Querétaro,0.008576569
+Nuevo León,0.008558363
+desc_tipo_dpto,0.00855115
+desc_antiguedad,0.008510262
+idzona_3,0.0077982643
+desc_terminado,0.007737833
+piscina,0.0075436183
+metrostotales_fillmean,0.0072815455
+Oficina comercial,0.007261677
+idzona_2,0.007126778
+popular_desc_2,0.007067086
+anio,0.006857444
+idzona,0.006754951
+desc_seguridad,0.0066552917
+habitaciones,0.0066016517
+Terreno comercial,0.006446696
+Edificio,0.00607419
+metrostotales_cuadrado,0.005917892
+Chihuahua,0.0059059327
+Terreno,0.0056715184
+idzona_1,0.0055614715
+titulo_oficina,0.0054549198
+days_to_today,0.0051737535
+Terreno industrial,0.0050990684
+metroscubiertos_cuadrado,0.005048872
+idzona_5,0.004922166
+titulo_tipo_casa,0.0048573776
+antiguedad,0.0046708668
+Aguascalientes,0.004450866
+idzona_4,0.0043734554
+Puebla,0.004317016
+metrostotales,0.004182493
+desc_tipo_casa,0.0040741675
+Sonora,0.003955907
+Tabasco,0.003931216
+lat,0.003747565
+Bodega comercial,0.0036460354
+Chiapas,0.003152231
+lng,0.0030663863
+usosmultiples,0.0029737472
+desc_escuela,0.0028013666
+desc_oficina,0.0027653184
+desc_positiva,0.0027272794
+Guerrero,0.0027216543
+titulo_construcc,0.0026657695
+Quintana Roo,0.002658292
+idzona_7,0.0026473894
+Guanajuato,0.0026220412
+Morelos,0.0025741898
+Nayarit,0.002556988
+idzona_6,0.0024918779
+Tlaxcala,0.00238889
+Veracruz,0.0022637786
+Baja California Sur,0.0022339888
+usosmultiples.1,0.0022197184
+desc_estudio,0.0022189391
+titulo_seguridad,0.0022080645
+Hidalgo,0.0021961057
+Sinaloa,0.0021708221
+Tamaulipas,0.0020612022
+idzona_11,0.002032936
+idzona_9,0.0020212836
+idzona_15,0.0019926885
+Oaxaca,0.0019812563
+idzona_12,0.0019375233
+popular_titulo_2,0.0019353746
+desc_construcc,0.0018996567
+desc_pileta,0.0018944184
+idzona_8,0.0018652143
+Colima,0.001864811
+Michoacán,0.0018553698
+avenue_x,0.0018012839
+idzona_14,0.0017965946
+avenue_y,0.0017010188
+titulo_ambientes,0.0016732088
+Campeche,0.001671827
+Baja California Norte,0.0016430262
+idzona_13,0.0016375809
+idzona_10,0.0015413676
+Zacatecas,0.0009577179
+not_outlier,0.0
